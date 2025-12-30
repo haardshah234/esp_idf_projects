@@ -7,7 +7,7 @@
 #define LED GPIO_NUM_15
 #define BUTTON1 GPIO_NUM_13
 #define BUTTON2 GPIO_NUM_25
-
+    
 int delay(int milliseconds) {
     return milliseconds/portTICK_PERIOD_MS;
 }
