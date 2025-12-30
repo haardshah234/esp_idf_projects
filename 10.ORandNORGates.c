@@ -11,7 +11,7 @@ void app_main(void)
     gpio_set_level(ORNOR,1);
     /*
     Connections:
-
+    
     OR Gate:
     Transistor1:
     Emitter - GND

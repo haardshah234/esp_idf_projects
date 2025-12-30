@@ -11,7 +11,7 @@ void app_main(void)
     gpio_set_level(XORXNOR,1);
     /*
     Connections:
-
+    
     XOR Gate:
 
     Transistor1: 
